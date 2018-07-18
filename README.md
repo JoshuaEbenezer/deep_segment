@@ -27,5 +27,8 @@ post_process.py contains the function for post-processing, but is not used by th
 
 Change the numpy random seed to create a different training-validation split and different random weights
 
-AUTHOR: Joshua Ebenezer
-Date created: July 9th, 2018
+##AUTHOR
+Joshua Ebenezer
+
+##Date created
+July 9th, 2018
