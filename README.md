@@ -5,9 +5,9 @@ Code is based on https://github.com/learningtitans/isbi2017-part1
 
 IMPORTANT: Please note all default paths in segment.py, pickle_results.py, and ensemble.py
 
-					Please create folders 'pickled_results' and 'predicted_masks' within this directory. Change the relevant paths inside pickle_result.py and ensemble.py otherwise.
+Please create folders 'pickled_results' and 'predicted_masks' within this directory. Change the relevant paths inside pickle_result.py and ensemble.py otherwise.
 
-					A folder by name 'saved_models' must exist outside this directory.
+A folder by name 'saved_models' must exist outside this directory.
 
 Data must be stored as 128x218 images in the base training folder specified inside segment.py
 
