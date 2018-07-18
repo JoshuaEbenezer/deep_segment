@@ -3,7 +3,7 @@ Segmentation of skin cancer images for submission to ISIC 2018. Base built on RE
 
 Code is based on https://github.com/learningtitans/isbi2017-part1
 
-IMPORTANT: Please note all default paths in segment.py, pickle_results.py, and ensemble.py
+**IMPORTANT: Please note all default paths in segment.py, pickle_results.py, and ensemble.py**
 
 Please create folders 'pickled_results' and 'predicted_masks' within this directory. Change the relevant paths inside pickle_result.py and ensemble.py otherwise.
 
@@ -27,8 +27,8 @@ post_process.py contains the function for post-processing, but is not used by th
 
 Change the numpy random seed to create a different training-validation split and different random weights
 
-#AUTHOR
+## AUTHOR
 Joshua Ebenezer
 
-#Date created
+## Date created
 July 9th, 2018
